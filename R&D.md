@@ -1,9 +1,9 @@
 
 >date: WEEK 1 - Monday    - 18.07.2022   
 >time: 
+>doing: lecture abstruct
 
-## Lecture Abstract
-## R & D Project - Why it is an important paper?
+## R & D Project - Why it is an important paper?**
 
 - A core paper- a requirement for the BCIS qualification with a major. This paper is about applying knowledge to solve a client problem to their satisfaction.
 - R & D project experience should help you get an IT role.
@@ -17,7 +17,6 @@
 
 
 
----
 
 ## Cautions
 
@@ -39,7 +38,6 @@ on cmsundergrad@aut.ac.nz or Marcella.Nielsen@aut.ac.nz
 
 
 
----
 
 ## Information and Contacts
 **Canvas**
@@ -49,7 +47,8 @@ on cmsundergrad@aut.ac.nz or Marcella.Nielsen@aut.ac.nz
 - Part 2- COMP703 & COMP709 
 - You should have access to canvas. If not  please email cmsundergrad@aut.ac.nz 
 
----
+
+
 
 ## Assessments OVerview
 **COMP702 & COMP709 (Sem 1 of study) - Part 1:**
