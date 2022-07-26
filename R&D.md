@@ -240,7 +240,6 @@ The previous agencies were the Ministry of Business, Innovation and Employment (
 >time:
 ## UML Learning
 
-UML最初的创建是因  
 https://www.youtube.com/watch?v=UI6lqHOVHic&t=1s
 https://en.wikipedia.org/wiki/Unified_Modeling_Language
 
