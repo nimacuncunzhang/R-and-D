@@ -254,11 +254,11 @@ https://en.wikipedia.org/wiki/Unified_Modeling_Language
 
 ## Requirements analysis
 
-- **Eliciting requirements:** 
+- **Eliciting requirements:** <br>
    business process documentation, and stakeholder interviews. This is sometimes also called requirements gathering or requirements discovery.
-- **Recording requirements:** 
+- **Recording requirements:** <br>
   asdfasdfRequirements may be documented in various forms, usually including a summary list and may include natural-language documents, use cases, user stories, process specifications and a variety of models including data models.
-- **Analyzing requirements:**
+- **Analyzing requirements:**<br>
    asdfasdfdetermining whether the stated requirements are clear, complete, unduplicated, concise, valid, consistent and unambiguous, and resolving any apparent conflicts. Analyzing can also include sizing requirements.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a1/SE_Process.jpg)
