@@ -305,7 +305,7 @@ https://en.wikipedia.org/wiki/Requirements_analysis
 
 5. **Role Activity Diagrams (RAD)**<br>
    Role-activity diagram (RAD) is a role-oriented process model that represents role-activity diagrams. Role activity diagrams are a high-level view that captures the dynamics and role structure of an organization. Roles are used to grouping together activities into units of responsibilities. Activities are the basic parts of a role. An activity may be either carried out in isolation or it may require coordination with other activities within the role.<br>
-   ![RAD example]([https://d3i71xaburhd42.cloudfront.net/49f42cf33c5165dc71a79ee4e71142053f8260c2/4-Figure2-1.png](https://www.researchgate.net/profile/Keith-Phalp/publication/220636119/figure/fig1/AS:669969679413260@1536744627370/Example-Role-Activity-Diagram.png))
+   ![RAD example]([https://d3i71xaburhd42.cloudfront.net/49f42cf33c5165dc71a79ee4e71142053f8260c2/4-Figure2-1.png]([https://www.researchgate.net/profile/Keith-Phalp/publication/220636119/figure/fig1/AS:669969679413260@1536744627370/Example-Role-Activity-Diagram.png)](http://www.jot.fm/issues/issue_2008_07/article5/images/figure11.gif))
 
 6. **Gantt Charts**<br>
    Gantt charts used in project planning as they provide a visual representation of tasks that are scheduled along with the timelines. The Gantt charts help to know what is scheduled to be completed by which date. The start and end dates of all the tasks in the project can be seen in a single view.<br>
