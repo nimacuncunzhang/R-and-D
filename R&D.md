@@ -50,7 +50,7 @@ on cmsundergrad@aut.ac.nz or Marcella.Nielsen@aut.ac.nz
 
 
 
-## Assessments OVerview
+## Assessments Overview
 **COMP702 & COMP709 (Sem 1 of study) - Part 1:**
 
 1. Project proposal (10%) - presentation in week 6
@@ -194,32 +194,35 @@ graph TD
 team meeting
 
 >date: WEEK 1 - Thursday  - 21.07.2022
->time:
-## 顾客背景调查
-WorkSafe New Zealand是新西兰主要工作场所的健康和安全监管机构。
-前任机构是Ministry of Business, Innovation and Employment（MBIE）和department of labour
+>time:  2:00 pm to 3:30 pm - 1.5h
+
+## Customer background checks
+WorkSafe New Zealand is the primary workplace health and safety regulator in New Zealand.
+The previous agencies were the Ministry of Business, Innovation and Employment (MBIE) and the Department of labour.
 
 
-worksafe的工作原则：
-#### 监管信心
-- 开展监管活动，让人们相信新西兰的工作场所正在适当地管理健康和安全
-- 使新西兰对 WorkSafe 作为主要的健康和安全监管机构充满信心
-- 支持对健康和安全监管制度有效性的信心。
+&nbsp;
+## The Mission of WorkSafe
+**Regulatory confidence**
+- Regulatory activities to provide confidence that health and safety is being managed appropriately in New Zealand workplaces
+- Gives New Zealand confidence in WorkSafe as the primary health and safety regulator
+- Support confidence in the effectiveness of the health and safety regulatory system.hjk
 
-#### 伤害预防
-使用智能针对所有级别（部门和系统范围）的关键风险
-提供有针对性的干预措施以解决危害驱动因素（包括劳动力能力、员工敬业度和有效治理）
-影响态度和行为以改善健康和安全风险管理。
+&nbsp;
+**Harm prevention**
+- Targeting critical risks at all levels (sector and system-wide) using intelligence
+- Delivering targeted interventions to address harm drivers (including workforce capability, worker engagement and effective governance)
+- Influencing attitudes and behaviour to improve health and safety risk management.
 
-####系统领导
-领导、影响和利用健康和安全系统（包括其他监管机构）来改善健康和安全结果
-促进和支持行业、组织和工人对健康和安全的领导
-通过 WorkSafe 自身的良好实践以身作则。
+&nbsp;
+**System leadership**
+- Leading, influencing and leveraging the health and safety system (including other regulators) to improve health and safety outcomes
+- Promoting and supporting industry, organisation and worker leadership of health and safety
+- Leading by example through WorkSafe's own good practices.
 
-
-worksafe机构高管：
-[worksage Board Mumbers](https://www.worksafe.govt.nz/about-us/who-we-are/our-board/)
-
+&nbsp;
+**worksafe Agency executives** :[worksage Board Mumbers](https://www.worksafe.govt.nz/about-us/who-we-are/our-board/)
+**Minister responsible:** [Michael Wood](https://en.wikipedia.org/wiki/Michael_Wood_(New_Zealand_politician)), Minister for Workplace Relations and SafetyMinister for Workplace Relations and Safety 
 
 
 
@@ -230,11 +233,78 @@ worksafe机构高管：
 
 >date: WEEK 1 - Friday    - 22.07.2022
 >time:
-UML 
+## UML Learning
+
+UML最初的创建是因  
+https://www.youtube.com/watch?v=UI6lqHOVHic&t=1s
+https://en.wikipedia.org/wiki/Unified_Modeling_Language
+
 >date: WEEK 2 - Monday    - 23.07.2022
 >time:
+
+## TODO: lecture
+
 >date: WEEK 2 - Tuesday   - 24.07.2022
 >time: 
+
+## Requirements analysis
+
+- **Eliciting requirements:**  business process documentation, and stakeholder interviews. This is sometimes also called requirements gathering or requirements discovery.
+- **Recording requirements:** asdfasdfRequirements may be documented in various forms, usually including a summary list and may include natural-language documents, use cases, user stories, process specifications and a variety of models including data models.
+- **Analyzing requirements:** asdfasdfdetermining whether the stated requirements are clear, complete, unduplicated, concise, valid, consistent and unambiguous, and resolving any apparent conflicts. Analyzing can also include sizing requirements.
+
+![](https://upload.wikimedia.org/wikipedia/commons/a/a1/SE_Process.jpg)
+https://en.wikipedia.org/wiki/Requirements_analysis
+
+
+
+
+&nbsp;
+## Requirements Analysis Process
+
+1. **Eliciting requirements**
+    The process of gathering requirements by communicating with the customers is known as eliciting requirements.
+
+2. **Analyzing requirements**
+   This step helps to determine the quality of the requirements. It involves identifying whether the requirements are unclear, incomplete, ambiguous, and contradictory. These issues resolved before moving to the next step.
+
+3. **Requirements modeling**
+    In Requirements modeling, the requirements are usually documented in different formats such as use cases, user stories, natural-language documents, or process specification.
+
+4. **Review and retrospective**
+   This step is conducted to reflect on the previous iterations of requirements gathering in a bid to make improvements in the process going forward.
+
+
+
+&nbsp;
+## Requirements Analysis Techniques
+
+1.  **Business process modeling notation (BPMN)**
+   This technique is similar to creating process flowcharts, although BPMN has its own symbols and elements. Business process modeling and notation is used to create graphs for the business process. These graphs simplify understanding the business process. BPMN is widely popular as a process improvement methodology.
+
+2. **UML (Unified Modeling Language)**
+   UML consists of an integrated set of diagrams that are created to specify, visualize, construct and document the artifacts of a software system. UML is a useful technique while creating object-oriented software and working with the software development process.  In UML, graphical notations are used to represent the design of a software project.  UML also help in validating the architectural design of the software.
+
+3. **Flowchart technique**
+   A flowchart depicts the sequential flow and control logic of a set of activities that are related. Flowcharts are in different formats such as linear, cross-functional, and top-down.  The flowchart can represent system interactions, data flows, etc. Flow charts are easy to understand and can be used by both the technical and non-technical team members. Flowchart technique helps in showcasing the critical attributes of a process.
+
+4. **Data flow diagram**
+   This technique is used to visually represent systems and processes that are complex and difficult to describe in text. Data flow diagrams represent the flow of information through a process or a system. It also includes the data inputs and outputs, data stores, and the various subprocess through which the data moves. DFD describes various entities and their relationships with the help of standardized notations and symbols.  By visualizing all the elements of the system it is easier to identify any shortcomings. These shortcomings are then eliminated in a bid to create a robust solution.
+
+5. **Role Activity Diagrams (RAD)**
+   Role-activity diagram (RAD) is a role-oriented process model that represents role-activity diagrams. Role activity diagrams are a high-level view that captures the dynamics and role structure of an organization. Roles are used to grouping together activities into units of responsibilities. Activities are the basic parts of a role. An activity may be either carried out in isolation or it may require coordination with other activities within the role.
+
+6. **Gantt Charts**
+   Gantt charts used in project planning as they provide a visual representation of tasks that are scheduled along with the timelines. The Gantt charts help to know what is scheduled to be completed by which date. The start and end dates of all the tasks in the project can be seen in a single view.
+
+7. **IDEF (Integrated Definition for Function Modeling)**
+   Integrated definition for function modeling (IDEFM) technique represents the functions of a process and their relationships to child and parent systems with the help of a box. It provides a blueprint to gain an understanding of an organization’s system.
+
+8. **Gap Analysis**
+   Gap analysis is a technique which helps to analyze the gaps in performance of a software application to determine whether the business requirements are met or not. It also involves the steps that are to be taken to ensure that all the business requirements are met successfully. Gap denotes the difference between the present state and the target state. Gap analysis is also known as need analysis, need assessment or need-gap analysis.
+
+
+
 >date: WEEK 2 - Wednesday - 
 >time:
 >date: WEEK 2 - Thursday  - 
