@@ -1,6 +1,8 @@
 
 >date: WEEK 1 - Monday    - 18.07.2022   
+&nbsp;
 >time: 
+&nbsp;
 >doing: lecture abstruct
 
 ## R & D Project - Why it is an important paper?**
@@ -76,6 +78,7 @@ Lesson from ***[leacture pdf](https://canvas.aut.ac.nz/courses/11046/pages/week-
 
 
 >date: WEEK 1 - Tuesday   - 19.07.2022
+&nbsp;
 >time:
 
 ## Note taking language & software learning
@@ -189,11 +192,13 @@ graph TD
 
 
 >date: WEEK 1 - Wednesday - 20.07.2022
+&nbsp;
 >time:
 
 team meeting
 
 >date: WEEK 1 - Thursday  - 21.07.2022
+&nbsp;
 >time:  2:00 pm to 3:30 pm - 1.5h
 
 ## Customer background checks
@@ -232,6 +237,7 @@ The previous agencies were the Ministry of Business, Innovation and Employment (
 
 
 >date: WEEK 1 - Friday    - 22.07.2022
+&nbsp;
 >time:
 ## UML Learning
 
