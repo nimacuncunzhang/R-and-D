@@ -287,34 +287,37 @@ https://en.wikipedia.org/wiki/Requirements_analysis
 ## Requirements Analysis Techniques
 
 1.  **Business process modeling notation (BPMN)**<br>
-   This technique is similar to creating process flowcharts, although BPMN has its own symbols and elements. Business process modeling and notation is used to create graphs for the business process. These graphs simplify understanding the business process. BPMN is widely popular as a process improvement methodology.
+   This technique is similar to creating process flowcharts, although BPMN has its own symbols and elements. Business process modeling and notation is used to create graphs for the business process. These graphs simplify understanding the business process. BPMN is widely popular as a process improvement methodology.<br>
    ![BPMN example](https://upload.wikimedia.org/wikipedia/commons/a/af/BPMN-AProcessWithNormalFlow.svg)
 
 2. **UML (Unified Modeling Language)**<br>
-   UML consists of an integrated set of diagrams that are created to specify, visualize, construct and document the artifacts of a software system. UML is a useful technique while creating object-oriented software and working with the software development process.  In UML, graphical notations are used to represent the design of a software project.  UML also help in validating the architectural design of the software.
+   UML consists of an integrated set of diagrams that are created to specify, visualize, construct and document the artifacts of a software system. UML is a useful technique while creating object-oriented software and working with the software development process.  In UML, graphical notations are used to represent the design of a software project.  UML also help in validating the architectural design of the software.<br>
    ![UML example](https://upload.wikimedia.org/wikipedia/commons/e/ed/UML_diagrams_overview.svg)
 
 3. **Flowchart technique**<br>
-   A flowchart depicts the sequential flow and control logic of a set of activities that are related. Flowcharts are in different formats such as linear, cross-functional, and top-down.  The flowchart can represent system interactions, data flows, etc. Flow charts are easy to understand and can be used by both the technical and non-technical team members. Flowchart technique helps in showcasing the critical attributes of a process.
+   A flowchart depicts the sequential flow and control logic of a set of activities that are related. Flowcharts are in different formats such as linear, cross-functional, and top-down.  The flowchart can represent system interactions, data flows, etc. Flow charts are easy to understand and can be used by both the technical and non-technical team members. Flowchart technique helps in showcasing the critical attributes of a process.<br>
    ![flowchart example](https://upload.wikimedia.org/wikipedia/commons/0/06/For-loop-diagram.png)
 
 4. **Data flow diagram**<br>
-   This technique is used to visually represent systems and processes that are complex and difficult to describe in text. Data flow diagrams represent the flow of information through a process or a system. It also includes the data inputs and outputs, data stores, and the various subprocess through which the data moves. DFD describes various entities and their relationships with the help of standardized notations and symbols.  By visualizing all the elements of the system it is easier to identify any shortcomings. These shortcomings are then eliminated in a bid to create a robust solution.
+   This technique is used to visually represent systems and processes that are complex and difficult to describe in text. Data flow diagrams represent the flow of information through a process or a system. It also includes the data inputs and outputs, data stores, and the various subprocess through which the data moves. DFD describes various entities and their relationships with the help of standardized notations and symbols.  By visualizing all the elements of the system it is easier to identify any shortcomings. These shortcomings are then eliminated in a bid to create a robust solution.<br>
    [visual paradigm](https://www.visual-paradigm.com/guide/data-flow-diagram/what-is-data-flow-diagram/)
    ![data flow example](https://cdn-images.visual-paradigm.com/guide/dfd/what-is-data-flow-diagram/19-level-1-dfd-example.png)
 
 5. **Role Activity Diagrams (RAD)**<br>
-   Role-activity diagram (RAD) is a role-oriented process model that represents role-activity diagrams. Role activity diagrams are a high-level view that captures the dynamics and role structure of an organization. Roles are used to grouping together activities into units of responsibilities. Activities are the basic parts of a role. An activity may be either carried out in isolation or it may require coordination with other activities within the role.
-   ![RAD example](https://d3i71xaburhd42.cloudfront.net/49f42cf33c5165dc71a79ee4e71142053f8260c2/4-Figure2-1.png)
+   Role-activity diagram (RAD) is a role-oriented process model that represents role-activity diagrams. Role activity diagrams are a high-level view that captures the dynamics and role structure of an organization. Roles are used to grouping together activities into units of responsibilities. Activities are the basic parts of a role. An activity may be either carried out in isolation or it may require coordination with other activities within the role.<br>
+   ![RAD example]([https://d3i71xaburhd42.cloudfront.net/49f42cf33c5165dc71a79ee4e71142053f8260c2/4-Figure2-1.png](https://www.researchgate.net/profile/Keith-Phalp/publication/220636119/figure/fig1/AS:669969679413260@1536744627370/Example-Role-Activity-Diagram.png))
 
 6. **Gantt Charts**<br>
-   Gantt charts used in project planning as they provide a visual representation of tasks that are scheduled along with the timelines. The Gantt charts help to know what is scheduled to be completed by which date. The start and end dates of all the tasks in the project can be seen in a single view.
+   Gantt charts used in project planning as they provide a visual representation of tasks that are scheduled along with the timelines. The Gantt charts help to know what is scheduled to be completed by which date. The start and end dates of all the tasks in the project can be seen in a single view.<br>
+   ![gantt charts](https://managementhelp.org/wp-content/uploads/2022/04/gantt-chart-1024x739.png)
 
 7. **IDEF (Integrated Definition for Function Modeling)**<br>
-   Integrated definition for function modeling (IDEFM) technique represents the functions of a process and their relationships to child and parent systems with the help of a box. It provides a blueprint to gain an understanding of an organization’s system.
+   Integrated definition for function modeling (IDEFM) technique represents the functions of a process and their relationships to child and parent systems with the help of a box. It provides a blueprint to gain an understanding of an organization’s system.<br>
+   ![IDEF](https://upload.wikimedia.org/wikipedia/commons/c/c1/IDEF_Top-Level_Context_Diagram.jpg)
 
 8. **Gap Analysis**<br>
-   Gap analysis is a technique which helps to analyze the gaps in performance of a software application to determine whether the business requirements are met or not. It also involves the steps that are to be taken to ensure that all the business requirements are met successfully. Gap denotes the difference between the present state and the target state. Gap analysis is also known as need analysis, need assessment or need-gap analysis.
+   Gap analysis is a technique which helps to analyze the gaps in performance of a software application to determine whether the business requirements are met or not. It also involves the steps that are to be taken to ensure that all the business requirements are met successfully. Gap denotes the difference between the present state and the target state. Gap analysis is also known as need analysis, need assessment or need-gap analysis.<br>
+   ![gap analysis](https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/Updates/SWOT-Analysis-Example.png)
 
 
 
