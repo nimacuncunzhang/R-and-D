@@ -1,5 +1,5 @@
 
->date: WEEK 1 - Monday    - 18.07.2022   
+>date: WEEK 1 - Monday    - 18.07.2022
 &nbsp;
 >time: 
 &nbsp;
@@ -285,7 +285,7 @@ https://en.wikipedia.org/wiki/Requirements_analysis
 &nbsp;
 ## Requirements Analysis Techniques
 
-1.  **Business process modeling notation (BPMN)**
+1.  **Business process modeling notation (BPMN)**<br>
    This technique is similar to creating process flowcharts, although BPMN has its own symbols and elements. Business process modeling and notation is used to create graphs for the business process. These graphs simplify understanding the business process. BPMN is widely popular as a process improvement methodology.
 
 2. **UML (Unified Modeling Language)**
