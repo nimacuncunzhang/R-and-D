@@ -225,7 +225,7 @@ The previous agencies were the Ministry of Business, Innovation and Employment (
 - Leading by example through WorkSafe's own good practices.
 
 &nbsp;
-**worksafe Agency executives** :[worksage Board Mumbers](https://www.worksafe.govt.nz/about-us/who-we-are/our-board/)
+**worksafe Agency executives** :[worksage Board Mumbers](https://www.worksafe.govt.nz/about-us/who-we-are/our-board/)<br>
 **Minister responsible:** [Michael Wood](https://en.wikipedia.org/wiki/Michael_Wood_(New_Zealand_politician)), Minister for Workplace Relations and SafetyMinister for Workplace Relations and Safety 
 
 
