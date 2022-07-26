@@ -2,6 +2,7 @@
 >date: WEEK 1 - Monday    - 18.07.2022   
 >time: 
 
+## Lecture Abstract
 ## R & D Project - Why it is an important paper?
 
 - A core paper- a requirement for the BCIS qualification with a major. This paper is about applying knowledge to solve a client problem to their satisfaction.
@@ -78,7 +79,115 @@ Lesson from ***[leacture pdf](https://canvas.aut.ac.nz/courses/11046/pages/week-
 >date: WEEK 1 - Tuesday   - 19.07.2022
 >time:
 
-markdown
+## Note taking language & software learning
+
+dfsgdsfgdsfg
+dfg
+dfg
+dfg
+
+
+
+
+---
+
+**Reasons for choosing markdown**
+After investigating the existing note taking software in the market I decided to use markdown as my main note taking software in the future. This is because markdown is more cost effective than other note taking languages. It takes less time to learn the code than more specialized languages, and more freedom than journaling tools that do not require programming. Not only that, it is a cross-platform universal language that works well on mac, windows, linux, and even mobile platforms. At the same time, markdown can be displayed on html browsers. On the other hand, the high level of market adoption has led to many and comprehensive tutorials, which will make my learning more efficient.
+
+
+
+**markdown offical website:** [www.markdownguide.org](https://www.markdownguide.org/)
+
+---
+
+### Basic and Wxtended Syntax
+| Element        | Markdown Syntax                                  |
+| -------------- | ------------------------------------------------ |
+| Header         | # H1 <br># H2<br> ### H3                         | 
+| ParagraphBold  | Text	\*\*bold text**                             |
+| Italic         | \*italicized text*                               |
+| Blockquote	 | > blockquote                                     |
+| Ordered List	 | 1. First item<br>2. Second item<br>3. Third item |
+| Unordered List | - First item<br>- Second item<br>- Third item    |
+| Code	         | \`code`                                          |
+| Horizontal Rule| 	---                                             |
+| Link	         | \[title](https://www.example.com)                |
+| Image	         | \!\[alt text](image.jpg)                         |
+| Table          | \| Syntax \| Description \|<br>\| ----------- \| ----------- \|<br>\| Header \| Title \|<br>\| Paragraph \| Text \|   |
+|Fenced Code Block| \```<br>{<br>"firstName": "John",<br>"lastName": "Smith",<br>"age": 25<br>}<br>``` |
+| Footnote       | Here's a sentence with a footnote. [^1] <br> [^1]: This is the footnote. |
+| Heading ID     | \### My Great Heading {#custom-id}               |
+| Definition List| term<br>: definition                             |
+| Strikethrough  | 	~\~The world is flat.~~                         |
+| Emoji          | That is so funny!        : joy:                  |
+| Highlight      | I need to highlight these \==very important words==.|
+| Subscript      | H\~2~O                                           |
+| Superscript    | X\^2^                                            |
+
+--- 
+
+**Markdown supports** [KaTeX](https://katex.org/docs/api.html) **or** [MathJax](https://www.mathjax.org/) **to render mathematical expressions**
+
+**code:**
+
+\$\$
+\begin{Bmatrix}
+   a & b \\\\
+   c & d
+\end{Bmatrix}
+\$\$
+\$\$
+\begin{CD}
+   A @>a>> B \\\\
+@VbVV @AAcA \\\\
+   C @= D
+\end{CD}
+\$\$
+
+
+**effect：**
+
+$$
+\begin{Bmatrix}
+   a & b \\
+   c & d
+\end{Bmatrix}
+$$
+$$
+\begin{CD}
+   A @>a>> B \\
+@VbVV @AAcA \\
+   C @= D
+\end{CD}
+$$
+
+
+
+**At the same time markdown also supports**  [mermaid](https://mermaid-js.github.io/mermaid/#/) **for rendering**
+**code：**
+
+\```mermaid
+graph TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+\```
+
+
+**effect：**
+```mermaid
+graph TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+```
+
+
+
 
 >date: WEEK 1 - Wednesday - 20.07.2022
 >time:
@@ -114,23 +223,23 @@ worksafe机构高管：
 
 
 
+
+
+
+
+
+
 >date: WEEK 1 - Friday    - 22.07.2022
 >time:
-
 UML 
-
 >date: WEEK 2 - Monday    - 23.07.2022
 >time:
-
 >date: WEEK 2 - Tuesday   - 24.07.2022
 >time: 
-
 >date: WEEK 2 - Wednesday - 
 >time:
-
 >date: WEEK 2 - Thursday  - 
 >time: 
-
 >date: WEEK 2 - Friday    - 
 >time:
 
