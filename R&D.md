@@ -1,6 +1,5 @@
 
->date: WEEK 1 - Monday    - 18.07.2022
-&nbsp;
+>date: WEEK 1 - Monday    - 18.07.2022<br>
 >time: 
 &nbsp;
 >doing: lecture abstruct
@@ -255,9 +254,12 @@ https://en.wikipedia.org/wiki/Unified_Modeling_Language
 
 ## Requirements analysis
 
-- **Eliciting requirements:**  business process documentation, and stakeholder interviews. This is sometimes also called requirements gathering or requirements discovery.
-- **Recording requirements:** asdfasdfRequirements may be documented in various forms, usually including a summary list and may include natural-language documents, use cases, user stories, process specifications and a variety of models including data models.
-- **Analyzing requirements:** asdfasdfdetermining whether the stated requirements are clear, complete, unduplicated, concise, valid, consistent and unambiguous, and resolving any apparent conflicts. Analyzing can also include sizing requirements.
+- **Eliciting requirements:** 
+   business process documentation, and stakeholder interviews. This is sometimes also called requirements gathering or requirements discovery.
+- **Recording requirements:** 
+  asdfasdfRequirements may be documented in various forms, usually including a summary list and may include natural-language documents, use cases, user stories, process specifications and a variety of models including data models.
+- **Analyzing requirements:**
+   asdfasdfdetermining whether the stated requirements are clear, complete, unduplicated, concise, valid, consistent and unambiguous, and resolving any apparent conflicts. Analyzing can also include sizing requirements.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a1/SE_Process.jpg)
 https://en.wikipedia.org/wiki/Requirements_analysis
@@ -268,16 +270,16 @@ https://en.wikipedia.org/wiki/Requirements_analysis
 &nbsp;
 ## Requirements Analysis Process
 
-1. **Eliciting requirements**
+1. **Eliciting requirements**<br>
     The process of gathering requirements by communicating with the customers is known as eliciting requirements.
 
-2. **Analyzing requirements**
+2. **Analyzing requirements**<br>
    This step helps to determine the quality of the requirements. It involves identifying whether the requirements are unclear, incomplete, ambiguous, and contradictory. These issues resolved before moving to the next step.
 
-3. **Requirements modeling**
+3. **Requirements modeling**<br>
     In Requirements modeling, the requirements are usually documented in different formats such as use cases, user stories, natural-language documents, or process specification.
 
-4. **Review and retrospective**
+4. **Review and retrospective**<br>
    This step is conducted to reflect on the previous iterations of requirements gathering in a bid to make improvements in the process going forward.
 
 
@@ -288,25 +290,25 @@ https://en.wikipedia.org/wiki/Requirements_analysis
 1.  **Business process modeling notation (BPMN)**<br>
    This technique is similar to creating process flowcharts, although BPMN has its own symbols and elements. Business process modeling and notation is used to create graphs for the business process. These graphs simplify understanding the business process. BPMN is widely popular as a process improvement methodology.
 
-2. **UML (Unified Modeling Language)**
+2. **UML (Unified Modeling Language)**<br>
    UML consists of an integrated set of diagrams that are created to specify, visualize, construct and document the artifacts of a software system. UML is a useful technique while creating object-oriented software and working with the software development process.  In UML, graphical notations are used to represent the design of a software project.  UML also help in validating the architectural design of the software.
 
-3. **Flowchart technique**
+3. **Flowchart technique**<br>
    A flowchart depicts the sequential flow and control logic of a set of activities that are related. Flowcharts are in different formats such as linear, cross-functional, and top-down.  The flowchart can represent system interactions, data flows, etc. Flow charts are easy to understand and can be used by both the technical and non-technical team members. Flowchart technique helps in showcasing the critical attributes of a process.
 
-4. **Data flow diagram**
+4. **Data flow diagram**<br>
    This technique is used to visually represent systems and processes that are complex and difficult to describe in text. Data flow diagrams represent the flow of information through a process or a system. It also includes the data inputs and outputs, data stores, and the various subprocess through which the data moves. DFD describes various entities and their relationships with the help of standardized notations and symbols.  By visualizing all the elements of the system it is easier to identify any shortcomings. These shortcomings are then eliminated in a bid to create a robust solution.
 
-5. **Role Activity Diagrams (RAD)**
+5. **Role Activity Diagrams (RAD)**<br>
    Role-activity diagram (RAD) is a role-oriented process model that represents role-activity diagrams. Role activity diagrams are a high-level view that captures the dynamics and role structure of an organization. Roles are used to grouping together activities into units of responsibilities. Activities are the basic parts of a role. An activity may be either carried out in isolation or it may require coordination with other activities within the role.
 
-6. **Gantt Charts**
+6. **Gantt Charts**<br>
    Gantt charts used in project planning as they provide a visual representation of tasks that are scheduled along with the timelines. The Gantt charts help to know what is scheduled to be completed by which date. The start and end dates of all the tasks in the project can be seen in a single view.
 
-7. **IDEF (Integrated Definition for Function Modeling)**
+7. **IDEF (Integrated Definition for Function Modeling)**<br>
    Integrated definition for function modeling (IDEFM) technique represents the functions of a process and their relationships to child and parent systems with the help of a box. It provides a blueprint to gain an understanding of an organization’s system.
 
-8. **Gap Analysis**
+8. **Gap Analysis**<br>
    Gap analysis is a technique which helps to analyze the gaps in performance of a software application to determine whether the business requirements are met or not. It also involves the steps that are to be taken to ensure that all the business requirements are met successfully. Gap denotes the difference between the present state and the target state. Gap analysis is also known as need analysis, need assessment or need-gap analysis.
 
 
